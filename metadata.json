@@ -1,0 +1,9 @@
+{
+  "name": "Testou",
+  "symbol": "TST",
+  "description": "Token de test sur Solana Devnet.",
+  "image": "http://localhost:8080/logo.png",
+  "extensions": {
+    "website": "https://example.com"
+  }
+}
