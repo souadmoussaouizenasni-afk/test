@@ -1,9 +1,10 @@
 {
-  "name": "Testou",
-  "symbol": "TST",
-  "description": "Token de test sur Solana Devnet.",
-  "image": "http://localhost:8080/logo.png",
+  "name": "MAVAM",
+  "symbol": "MAV",
+  "description": "MAVAM token on Solana Devnet.",
+  "image": "RAW_LOGO_REPLACE",
   "extensions": {
     "website": "https://example.com"
   }
 }
+
